@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-image: url("Pictures/PCOS.png")
+}
+	#wrapper{
+	width:900px;
+	margin:0 auto;
+}
+
+header h1 {
+	font-size: 55px;
+	font-family: pinecone-mvb-rough1-condense, sans-serif;
+	font-weight: 400;
+	font-style: normal;	
+	text-align: center;
+	color: rgba(97,96,96,.7)
+
+}
+nav{
+	width:100%;
+	text-align: center;
+	display:inline;
+}
+
+nav ul{
+  list-style-type: lower-roman;
+  margin: 20;
+  padding: 20;
+	display:inline;
+	
+	}
+
+nav li{
+	display:inline;
+	display: block;
+  padding: 10px;
+
+}
+article{
+	text-align: inherit;
+}
+
+
+footer{
+	text-align: center;
+	clear:both;
+	font-family:Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', 'monospace'"Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+
+}
+	
